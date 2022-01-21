@@ -46,7 +46,6 @@ def is_input():
                         break
             else:
                 print('А может быть все-таки введем целое число ')
-                continue
         except ValueError:
             print('А может быть все-таки введем целое число ')
 
